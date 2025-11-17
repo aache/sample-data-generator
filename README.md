@@ -88,13 +88,3 @@ This repo is evolving as part of a personal learning journey, but contributions,
 
 Dataset generated with
 @faker-js/faker — https://github.com/faker-js/faker
-
-⸻
-
-If you want, I can also generate:
-
-✔ A beautiful GitHub banner
-✔ A badges section
-✔ A demo GIF
-✔ A better folder layout
-✔ Additional scripts to add into README (shortest path, recommendation engine)
